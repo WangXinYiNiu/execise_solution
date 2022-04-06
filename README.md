@@ -4,3 +4,6 @@
 2. [Divide chocolate to kids evenly](https://github.com/WangXinYiNiu/execise_solution/blob/main/chocolate%20question.md)
 3. [laicode267. Search In Sorted Matrix I](https://github.com/WangXinYiNiu/execise_solution/blob/main/267.%20Search%20In%20Sorted%20Matrix%20I.md)
 4. [Binary Search Summay](https://github.com/WangXinYiNiu/execise_solution/blob/main/Binary%20Search%20Summary.md)
+
+## Mess
+1. cut square.
