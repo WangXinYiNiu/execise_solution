@@ -53,3 +53,6 @@ K个小朋友。N 块巧克力。第 i 块是 Hi * Wi 的方格组成的长方�
         System.out.println(res);
     }
 ```
+two questions need to discuss:
+1. left = mid + 1 rather than left = left + 1;
+2. if the count equals to K why need to continue the loop.
