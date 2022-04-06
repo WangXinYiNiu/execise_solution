@@ -43,7 +43,7 @@ K个小朋友。N 块巧克力。第 i 块是 Hi * Wi 的方格组成的长方�
                 count += (h[i] / mid) * (w[i] / mid);
             }
             if (count >= K) {
-                left = left + 1;
+                left = mid + 1;
                 res = mid;
             }
             else {
