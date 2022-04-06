@@ -6,4 +6,4 @@
 4. [Binary Search Summay](https://github.com/WangXinYiNiu/execise_solution/blob/main/Binary%20Search%20Summary.md)
 
 ## Mess
-1. cut square.
+1. [cut square](https://github.com/WangXinYiNiu/execise_solution/blob/main/cut%20square%20question.md)
