@@ -53,5 +53,5 @@ public class Solution {
   }
 }
 ```
-Time Complexity: O(# of nodes)
-Space Complexity: O(height)
+Time Complexity: O(# of nodes).   
+Space Complexity: O(height).  
