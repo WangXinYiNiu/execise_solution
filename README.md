@@ -5,5 +5,8 @@
 3. [laicode267. Search In Sorted Matrix I](https://github.com/WangXinYiNiu/execise_solution/blob/main/267.%20Search%20In%20Sorted%20Matrix%20I.md)
 4. [Binary Search Summay](https://github.com/WangXinYiNiu/execise_solution/blob/main/Binary%20Search%20Summary.md)
 
+## Recursion
+1. [laicode126. Lowest Common Ancestor I](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode126.%20Lowest%20Common%20Ancestor%20I.md)
+
 ## Mess
 1. [cut square](https://github.com/WangXinYiNiu/execise_solution/blob/main/cut%20square%20question.md)
