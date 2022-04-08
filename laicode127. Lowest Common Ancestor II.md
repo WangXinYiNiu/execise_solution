@@ -65,5 +65,5 @@ public class Solution {
 }
 ```
 
-//TC: O(n) -> 不知道为啥
+//TC: O(n) -> 本来以为时间复杂度是O(log n),没考虑到不是binary tree而是一条链下来的话就得看整个node.
 //SC: O(1)
