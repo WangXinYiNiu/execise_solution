@@ -8,5 +8,8 @@
 ## Recursion
 1. [laicode126. Lowest Common Ancestor I](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode126.%20Lowest%20Common%20Ancestor%20I.md)
 
+## Cross-training I
+1. [127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/127.%20Lowest%20Common%20Ancestor%20II.md)
+
 ## Mess
 1. [cut square](https://github.com/WangXinYiNiu/execise_solution/blob/main/cut%20square%20question.md)
