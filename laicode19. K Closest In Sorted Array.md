@@ -13,7 +13,8 @@ A = {1, 2, 3}, T = 2, K = 3, return {2, 1, 3} or {2, 3, 1}
 A = {1, 4, 6, 8}, T = 3, K = 3, return {4, 1, 6}
 
 ### 注意：一定要在写代码前就分好类。三种情况。用双指针去查找p在中间时刻的情况。
-<span style="color: green"> Some green text </span>
+
+***自己代码***
 ```java
 public class Solution {
   public int[] kClosest(int[] array, int target, int k) {
@@ -89,3 +90,61 @@ public class Solution {
   }
 }
 ```
+
+***老师代码***
+```java
+public class KClosest{
+  public int[] kClosest(int[] array, int target, int k) {
+    // Write your solution here
+    if(array == null || array.length == 0){
+      return array;
+    }
+    if(k == 0){
+      return new int[0];
+    }
+    // left is the index of the largest smaller or equal element,
+    // right = left + 1.
+    // These two should be the cloest to target.
+    int left = largestSmallerEqual(array, target);
+    int right = left + 1;
+    int[] result = new int[k];
+    //this is a typical merge operation.
+    for(int i = 0; i < k; i++){
+      // we can advance the left pointer when:
+      // 1. right pointer is already out of bound.
+      // 2. right pointer is not out of bound, left pointer is not out of
+      // bound, and array[left] is closer to target.
+      if(right >= array.length || left >= 0 && target - array[left] <= array[right] - target){
+        result[i] = array[left--];
+      }else{
+        result[i] = array[right++];
+      }
+    }
+    return result;
+  }
+
+  private int largestSmallerEqual(int[] array, int target){
+    // find the largest smaller or equal element's index in the array
+    int left = 0;
+    int right = array.length - 1;
+    while(left < right - 1){
+      int mid = left + (right - left) / 2;
+      if (array[mid] <= target){
+        left = mid;
+      } else {
+        right = mid;
+      }
+    }
+    if (array[right] <= target){
+      return right;
+    }
+    if (array[left] <= target){
+      return left;
+    }
+    return -1;
+  }
+}
+```
+
+TC:O(logn + k) //ps:别忘记加k的时间复杂度～      
+SC:O(1) //ps:返回的array不占***额外的***空间复杂度
