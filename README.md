@@ -5,7 +5,7 @@
 3. [laicode17. Closest In Sorted Array](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode17.%20Closest%20In%20Sorted%20Array.md)
 4. [laicode15. First Occurrence](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode15.%20First%20Occurrence.md)
 5. [laicode19. K Closest In Sorted Array](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode19.%20K%20Closest%20In%20Sorted%20Array.md)
-6. [leetcode658. Find K Closest Elements]
+6. [leetcode658. Find K Closest Elements](https://github.com/WangXinYiNiu/execise_solution/blob/main/leetcode658.%20Find%20K%20Closest%20Elements.md)
 7. [laicode20. Search In Unknown Sized Sorted Array](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode20.%20Search%20In%20Unknown%20Sized%20Sorted%20Array.md)
 8. [Divide chocolate to kids evenly](https://github.com/WangXinYiNiu/execise_solution/blob/main/chocolate%20question.md)
 9. [Binary Search Summay](https://github.com/WangXinYiNiu/execise_solution/blob/main/Binary%20Search%20Summary.md)
