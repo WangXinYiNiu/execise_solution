@@ -1,24 +1,17 @@
 经典的 Binary Search Summary
 
-```java
-public class Solution {
-  public int binarySearch(int[] array, int target) {
-    // Write your solution here
-    int left = 0;
-    int right = array.length - 1;
-    //Due to we set the left equal to mid + 1, we need to check the situation about left equal to right.
-    while(left <= right){
-      int mid = left + (right - left) / 2;
-      if(array[mid] == target){
-        return mid;
-      }else if(array[mid] < target){
-      //the left needs to equal mid plus one instead of mid. eg. If we input [1, 2] to find the index of 2. it's obvious.
-        left = mid + 1;
-      }else{
-        right = mid - 1;
-      }
-    }
-    return -1; 
-  }
-}
-```
+二分法
+条件 : 必须要是sorted
+
+做法 :
+ step 1 : 每次取中间
+ 取中间一分为二 - mid = left + (right - left) / 2;
+ mid = (right + left) / 2 ,这种写法存在问题: Integer有上下限 -- left 和 right 可以保证在范围内，但是left + right 就无法保证了。
+
+ step 2 : target 和 array[mid] 比较， 去该去的一半
+
+ step 3 : 缩小范围 -- 确定新的 left 和 right 边界
+    只要确保有一丝可能要的元素能够在新的范围内找到即可， 没有可能出现的坚决不要
+
+注意 : 循环条件 -- 来控制最后出循环有几个数
+       while (left < right) -- 这样写的话， 当left 比 right 小1的时候，mid会一直等于left，导致死循环
