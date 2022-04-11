@@ -1,5 +1,5 @@
-## laicode267. Search In Sorted Matrix I - two-dimensional array binary search question
-### 在一个sorted好的matrix里找element，返回其index。
+# laicode267. Search In Sorted Matrix I - two-dimensional array binary search question
+## 在一个sorted好的matrix里找element，返回其index。
 Given a 2D matrix that contains integers only, which each row is sorted in an ascending order. The first element of next row is larger than (or equal to) the last element of previous row.
 
 Given a target number, returning the position that the target locates within the matrix. If the target number does not exist in the matrix, return {-1, -1}.
@@ -18,6 +18,10 @@ we need changing two-dimensional to one-dimensional array to sloving the problem
 2. Think of it as a one-dimensional array. Set the left boundary as 0. Set the right boundary as row * column.
 3. According to the left and right boundary, we get a mid-value. ***calculate this mid value's row and column***.
 
+## 重点：本题重点是一个数学问题，如何把 one-dimensional index convert to two-dimensional index.     
+row = mid / conlumns      
+column = mid % conlumns     
+         
 ```java
 public class Solution {
   public int[] search(int[][] matrix, int target) {
