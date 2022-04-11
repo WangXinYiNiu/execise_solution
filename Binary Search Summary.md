@@ -15,6 +15,6 @@
     只要确保有一丝可能要的元素能够在新的范围内找到即可， 没有可能出现的坚决不要
 
 注意 : 循环条件 -- 来控制最后出循环有几个数
-       while (left < right) -- 这样写的话， 当left 比 right 小1的时候，mid会一直等于left，导致死循环
-       
-## 上述是答题思路：
+       while (left < right) -- 这样写的话， 当left 比 right 小1的时候，mid会一直等于left，导致死循环    
+
+Summary: We don't need to fill the while condition at the beginning. We need to consider how to reduce the range first. Then, according to the if-else condition, we could set the while condition. Finally, don't forget to check the element which comes out from the loop.
