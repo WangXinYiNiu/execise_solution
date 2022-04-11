@@ -1,25 +1,24 @@
 经典的 Binary Search Summary
 
+在一个数组里如果找到目标target就返回，找不到返回 -1.
+
 ```java
 public class Solution {
   public int binarySearch(int[] array, int target) {
     // Write your solution here
     int left = 0;
     int right = array.length - 1;
-    //Due to we set the left equal to mid + 1, we need to check the situation about left equal to right.
     //left <= right 是为了当数组长度为1时，也能进循环去check.
     while(left <= right){
       int mid = left + (right - left) / 2;
       if(array[mid] == target){
         return mid;
       }else if(array[mid] < target){
-      //the left needs to equal mid plus one instead of mid. eg. If we input [1, 2] to find the index of 2. it's obvious.
-      //如果我找的是target而没有限定条件的话（只要返回target就行 此时这个mid不被我们在考虑了，可以排出在外  就可以用left = mid + 1。
-      //不用left = mid + 1的话会死循环。
+      //left = mid + 1 是因为如果此时这个mid不是我要的解 我不需要在把它留在我的范围内了。所以可以left = mid + 1
+      //eg. {1, 2} target 找 2 -> left = 0, right = 1; mid = 0. If left = mid, time out.
         left = mid + 1;
       }else{
-      //但是right 可以不用 mid - 1。 因为编程语言都是向下取整。
-      //eg. {1, 2} target 找 2 -> left = 0, right = 1; mid = 0. If left = mid, time out.
+      //但是right 可以不用 mid - 1。 因为编程语言都是向下取整。所以就算我在把这个不合适的mid包括在范围里，它最后也会被踢出。
         right = mid - 1;
       }
     }
@@ -28,3 +27,4 @@ public class Solution {
 }
 ```
 
+Summary: We don't need to fill the while condition at the beginning. We need to consider how to reduce the range first. Then, according to the if-else condition, we could set the while condition. Finally, don't forget to check the element which comes out from the loop.
