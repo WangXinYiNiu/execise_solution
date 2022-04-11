@@ -48,6 +48,9 @@ public class Solution {
   }
 }
 ```
+TC：o(log(m * n))
+SC: O(1)
+
 Errors:
 1. left == 0, right == row * column - 1;
 2. Transform mid to index only use columns; 
