@@ -12,6 +12,7 @@ Corner Cases
 What if the given array is null? In this case, we do not need to do anything.
 What if the given array is of length zero? In this case, we do not need to do anything.
 
+- 自己代码  
 ```java
 public class Solution {
     public int[] solve(int[] array) {
@@ -38,6 +39,7 @@ public class Solution {
 TC: O(n ^ 2) -> n represent # of array      
 SC: O(1)
 
+- 老师代码  
 ```java
 public class Solution {
     public int[] solve(int[] array) {
