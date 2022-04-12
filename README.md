@@ -11,7 +11,8 @@
 9. [Binary Search Summay](https://github.com/WangXinYiNiu/execise_solution/blob/main/Binary%20Search%20Summary.md)
 
 ## Recursion I and Sorting Algorithms
-
+1. [laicode13. a to the power of b](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode13.%20a%20to%20the%20power%20of%20b.md)
+2. 
 
 ## Cross-training I
 1. [laicode127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode127.%20Lowest%20Common%20Ancestor%20II.md)
