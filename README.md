@@ -19,5 +19,5 @@
 
 ## Mess
 1. [cut square](https://github.com/WangXinYiNiu/execise_solution/blob/main/cut%20square%20question.md)
-2. [hanota question]
+2. [hanota question](https://github.com/WangXinYiNiu/execise_solution/blob/main/hanota%20question.md)
 3. [laicode126. Lowest Common Ancestor I](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode126.%20Lowest%20Common%20Ancestor%20I.md)
