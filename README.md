@@ -19,7 +19,8 @@
 6. [Sort Algorithm Summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Sort%20Algorithm%20Summary.md)
 
 ## Linked List
-
+1. [laicode34. Reverse Linked List (iterative, recursion)](https://github.com/wangxinyiiu/execise_solution/blob/main/laicode34.%20Reverse%20Linked%20List%20(iterative%2C%20recursion).md)
+2. [Linked List Summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Linked%20List%20Summary.md)
 ## Cross-training I
 1. [laicode127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode127.%20Lowest%20Common%20Ancestor%20II.md)
 
