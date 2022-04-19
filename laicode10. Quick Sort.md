@@ -15,7 +15,7 @@ public class Solution {
   //overload
   public void quickSort(int[] array, int left, int right){
     //recursion 要写 base case
-    //bug: 不能写 == 要洗 >= 
+    //bug: 不能写 == 要写 >= 
     //思考: [2,1]pivot选到index为1,排完后进下一个recursion时,left为2(pivot + 1)，right为1时
     //我们是需要return,不希望进函数里. 若进去right - left 为负数会nextInt会报错
     //(IllegalArgumentException: bound must be positive,因为nextInt里的区间只能(0, x]不能出现负数    
