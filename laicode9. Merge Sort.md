@@ -49,3 +49,12 @@ public class Solution {
     }
 }
 ```
+```时间复杂度：O(NlogN)```        
+divide: O(logN)               
+conquer: O(NlogN) -> conquer的时候每层要看所有的元素一共看logN层              
+
+```空间复杂度：O(N)```
+recursion 在 stack上占用的空间 O(logN)         
+创建新的array占用的空间 n + n/2 + n/4 + ... + 1 = 2n -> O(N)           
+
+特点：时间复杂度和空间复杂度都很稳定 
