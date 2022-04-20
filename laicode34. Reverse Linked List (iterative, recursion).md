@@ -23,7 +23,7 @@ public class Solution {
   public ListNode reverseLinkedList(ListNode head) {
     ListNode prev = null;
     while (head != null) {
-      ListNode next = head.next;
+      ListNode next = head.next;  // 先把head的下一个node记住，在把head的next指向prev（反转），否则下一次prev移动到当前的head，head不知道该前去哪里
       head.next = prev;
       prev = head;
       head = next;
@@ -44,9 +44,9 @@ public class Solution {
     if (head == null || head.next == null){
       return head;
     }
-    ListNode newHead = reverseLinkedList(head.next);
-    head.next.next = head;
-    head.next = null;
+    ListNode newHead = reverseLinkedList(head.next); // 反转head为头的list，子问题是反转以head.next为头的list，当前层要做的就是把反转后的子问题的尾巴（head.next)指向head
+    head.next.next = head;  // 此时head指向head.next(原list)，head.next也指向head(当前操作产生的结果)，产生环
+    head.next = null;  // 把上一步中提到的原list之间的键断开
     return newHead;
   }
 }
