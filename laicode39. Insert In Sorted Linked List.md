@@ -32,5 +32,5 @@ public class Solution{
   }
 }
 ```
-TC: O(n)
-SC: O(1)
+TC: O(n)        
+SC: O(1)      
