@@ -33,3 +33,6 @@
 1. [cut square](https://github.com/WangXinYiNiu/execise_solution/blob/main/cut%20square%20question.md)
 2. [hanota question](https://github.com/WangXinYiNiu/execise_solution/blob/main/hanota%20question.md)
 3. [laicode126. Lowest Common Ancestor I](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode126.%20Lowest%20Common%20Ancestor%20I.md)
+
+## leetcode
+1.[leetcode56. Merge Intervals](https://github.com/wangxinyiiu/execise_solution/blob/main/leetcode56.%20Merge%20Intervals.md)
