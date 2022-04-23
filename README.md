@@ -23,7 +23,8 @@
 2. [laicode36. Middle Node Of Linked List](https://github.com/wangxinyiiu/execise_solution/blob/main/laicode36.%20Middle%20Node%20Of%20Linked%20List.md)
 3. [laicode39. Insert In Sorted Linked List](https://github.com/wangxinyiiu/execise_solution/blob/main/laicode39.%20Insert%20In%20Sorted%20Linked%20List.md)
 4. [laicode40. Merge Two Sorted Linked Lists](https://github.com/wangxinyiiu/execise_solution/blob/main/laicode40.%20Merge%20Two%20Sorted%20Linked%20Lists.md)
-5. [Linked List Summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Linked%20List%20Summary.md)
+5. [leetcode148. Sort List](https://github.com/wangxinyiiu/execise_solution/blob/main/leetcode148.%20Sort%20List.md)
+6. [Linked List Summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Linked%20List%20Summary.md)
 
 ## Cross-training I
 1. [laicode127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode127.%20Lowest%20Common%20Ancestor%20II.md)
