@@ -68,5 +68,5 @@ public class Solution {
 }
 ```
 
-时间复杂度：O(nlogn)
-空间复杂度: O(logn) -> stack
+时间复杂度：O(nlogn)                
+空间复杂度: O(logn) -> stack                 
