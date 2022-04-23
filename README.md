@@ -35,4 +35,4 @@
 3. [laicode126. Lowest Common Ancestor I](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode126.%20Lowest%20Common%20Ancestor%20I.md)
 
 ## leetcode
-1.[leetcode56. Merge Intervals](https://github.com/wangxinyiiu/execise_solution/blob/main/leetcode56.%20Merge%20Intervals.md)
+1. [leetcode56. Merge Intervals](https://github.com/wangxinyiiu/execise_solution/blob/main/leetcode56.%20Merge%20Intervals.md)
