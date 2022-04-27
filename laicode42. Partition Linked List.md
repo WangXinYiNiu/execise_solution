@@ -24,9 +24,8 @@ public class Solution {
         cursmall.next = head;
         cursmall = cursmall.next;
       }
-      // 题目要求大于等于视为一样，否则再加一个判断，分三类 -- list分n类n个挡板
+      // 题目要求大于等于视为一样
       else { 
-        // array分n类n-1个挡板
         curbig.next = head;                     
         curbig = curbig.next;
       } 
@@ -34,6 +33,7 @@ public class Solution {
     }
     // 走完while，所有node都已经站好队，把两个list连起来
     cursmall.next = big.next;
+    // 出错：没有把 curbig 断开 会产生cycle
     curbig.next = null;
     return small.next;
   }
