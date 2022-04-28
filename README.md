@@ -26,7 +26,8 @@
 5. [laicode42. Partition Linked List](https://github.com/wangxinyiiu/execise_solution/blob/main/laicode42.%20Partition%20Linked%20List.md)
 6. [laicode29. Merge Sort Linked List](https://github.com/wangxinyiiu/execise_solution/blob/main/laicode29.%20Merge%20Sort%20Linked%20List.md)
 7. [laicode223. Add Two Numbers](https://github.com/wangxinyiiu/execise_solution/blob/main/laicode223.%20Add%20Two%20Numbers.md)
-8. [Linked List Summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Linked%20List%20Summary.md)
+8. [laicode306. Check If Linked List Is Palindrome](https://github.com/wangxinyiiu/execise_solution/blob/main/laicode306.%20Check%20If%20Linked%20List%20Is%20Palindrome.md)
+9. [Linked List Summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Linked%20List%20Summary.md)
 
 ## Cross-training I
 1. [laicode127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode127.%20Lowest%20Common%20Ancestor%20II.md)
