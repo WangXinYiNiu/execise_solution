@@ -22,3 +22,12 @@ stack的移动操作的常见特性？
 
 ## Four popular (queue-stack related) interview questions:
 ### Question 0: How to sort numbers with 3 stacks(no duplicate values)
+```
+global min = 2
+Stack1 (input)[
+Stack2 (buffer)[ 3 2 4
+Stack3 (result)[ 1 2
+
+Time: O(n^2)
+```
+### Question 1: How to sort numbers with 2 stacks(no duplicate values)
