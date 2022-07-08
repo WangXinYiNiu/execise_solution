@@ -36,6 +36,8 @@
 ## Queue & Stack
 1. [Queue & Stack summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Queue%20%26%20Stack%20Summary.md)
 
+## DFS
+1. [All Subset](https://github.com/wangxinyiu/execise_solution/blob/main/All%20Subset.md)
 ## String II
 1. 
 
