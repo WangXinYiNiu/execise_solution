@@ -76,3 +76,13 @@ public class Solution {
     }
 }
 ```
+
+TC: O(n + nlogk)
+1. put into hashmap: O(n)
+2. sue minheap:
+   - offer time = o(log1 + log2 + log3 + ... + logk) = O(klogk)
+   - size > k pop, time = O(n - k)logk
+   - so, time = O(klogk) + O(n-k)logk = O(nlogk)
+3. pop result from heap: time = O(klogk)
+
+SC: O(n)
