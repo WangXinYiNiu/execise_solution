@@ -30,9 +30,6 @@
 9. [laicode414. Remove Linked List Elements](https://github.com/wangxinyiiu/execise_solution/blob/main/laicode414.%20Remove%20Linked%20List%20Elements.md)
 10. [Linked List Summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Linked%20List%20Summary.md)
 
-## Cross-training I
-1. [laicode127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode127.%20Lowest%20Common%20Ancestor%20II.md)
-
 ## Queue & Stack
 1. [Queue & Stack summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Queue%20%26%20Stack%20Summary.md)
 
@@ -41,8 +38,12 @@
 
 ## HashTable and String I
 1. [laicode67. Top K Frequent Words](https://github.com/wangxinyiu/execise_solution/blob/main/laicode306.%20Check%20If%20Linked%20List%20Is%20Palindrome.md)
+
 ## String II
 1. 
+
+## Cross-training I
+1. [laicode127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode127.%20Lowest%20Common%20Ancestor%20II.md)
 
 ## Mess
 1. [cut square](https://github.com/WangXinYiNiu/execise_solution/blob/main/cut%20square%20question.md)
