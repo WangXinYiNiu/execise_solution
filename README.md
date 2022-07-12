@@ -40,6 +40,8 @@
 1. [laicode67. Top K Frequent Words](https://github.com/wangxinyiu/execise_solution/blob/main/laicode67.%20Top%20K%20Frequent%20Words.md)
 2. [laicode68. Missing Number I](https://github.com/wangxinyiu/execise_solution/blob/main/laicode68.%20Missing%20Number%20I.md)
 3. [laicode395. Remove Certain Characters](https://github.com/wangxinyiu/execise_solution/blob/main/laicode395.%20Remove%20Certain%20Characters.md)
+4. [laicode82. Remove Adjacent Repeated Characters IV](https://github.com/wangxinyiu/execise_solution/blob/main/laicode82.%20Remove%20Adjacent%20Repeated%20Characters%20IV.md)
+
 ## String II
 1. 
 
