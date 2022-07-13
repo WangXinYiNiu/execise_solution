@@ -41,7 +41,8 @@
 2. [laicode68. Missing Number I](https://github.com/wangxinyiu/execise_solution/blob/main/laicode68.%20Missing%20Number%20I.md)
 3. [laicode395. Remove Certain Characters](https://github.com/wangxinyiu/execise_solution/blob/main/laicode395.%20Remove%20Certain%20Characters.md)
 4. [laicode80. Remove Adjacent Repeated Characters II](https://github.com/wangxinyiu/execise_solution/blob/main/laicode80.%20Remove%20Adjacent%20Repeated%20Characters%20II.md)
-5. [laicode82. Remove Adjacent Repeated Characters IV](https://github.com/wangxinyiu/execise_solution/blob/main/laicode82.%20Remove%20Adjacent%20Repeated%20Characters%20IV.md)
+5. [laicode81. Remove Adjacent Repeated Characters III](https://github.com/wangxinyiu/execise_solution/blob/main/laicode81.%20Remove%20Adjacent%20Repeated%20Characters%20III.md)
+6. [laicode82. Remove Adjacent Repeated Characters IV](https://github.com/wangxinyiu/execise_solution/blob/main/laicode82.%20Remove%20Adjacent%20Repeated%20Characters%20IV.md)
 
 ## String II
 1. 
