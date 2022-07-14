@@ -43,6 +43,7 @@
 4. [laicode80. Remove Adjacent Repeated Characters II](https://github.com/wangxinyiu/execise_solution/blob/main/laicode80.%20Remove%20Adjacent%20Repeated%20Characters%20II.md)
 5. [laicode81. Remove Adjacent Repeated Characters III](https://github.com/wangxinyiu/execise_solution/blob/main/laicode81.%20Remove%20Adjacent%20Repeated%20Characters%20III.md)
 6. [laicode82. Remove Adjacent Repeated Characters IV](https://github.com/wangxinyiu/execise_solution/blob/main/laicode82.%20Remove%20Adjacent%20Repeated%20Characters%20IV.md)
+7. [laicode85. Determine If One String Is Another's Substring](https://github.com/wangxinyiu/laicode/blob/main/laicode85.%20Determine%20If%20One%20String%20Is%20Another's%20Substring.md)
 
 ## String II
 1. 
