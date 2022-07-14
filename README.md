@@ -46,7 +46,7 @@
 7. [laicode85. Determine If One String Is Another's Substring](https://github.com/wangxinyiu/laicode/blob/main/laicode85.%20Determine%20If%20One%20String%20Is%20Another's%20Substring.md)
 
 ## String II
-1. 
+1. [laicode84. Reverse Words In A Sentence I](https://github.com/wangxinyiu/laicode/blob/main/laicode84.%20Reverse%20Words%20In%20A%20Sentence%20I.md)
 
 ## Cross-training I
 1. [laicode127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode127.%20Lowest%20Common%20Ancestor%20II.md)
