@@ -1,4 +1,4 @@
-# 397. Right Shift By N Characters
+# laicode397. Right Shift By N Characters
 
 Right shift a given string by n characters.
 
