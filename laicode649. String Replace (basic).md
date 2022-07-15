@@ -138,5 +138,5 @@ public solution{
     }
 }
 ```
-TC: O(n)
+TC: O(n)      
 SC: O(n)
