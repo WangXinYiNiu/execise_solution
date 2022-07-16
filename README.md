@@ -47,6 +47,9 @@
 
 ## String II
 1. [laicode84. Reverse Words In A Sentence I](https://github.com/wangxinyiu/laicode/blob/main/laicode84.%20Reverse%20Words%20In%20A%20Sentence%20I.md)
+2. [laicode397. Right Shift By N Characters](https://github.com/wangxinyiu/laicode/blob/main/laicode397.%20Right%20Shift%20By%20N%20Characters.md)
+3. [laicode649. String Replace (basic)](https://github.com/wangxinyiu/laicode/blob/main/laicode649.%20String%20Replace%20(basic).md)
+4. [laicode65. All Permutations II](https://github.com/wangxinyiu/laicode/blob/main/laicode65.%20All%20Permutations%20II.md)
 
 ## Cross-training I
 1. [laicode127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode127.%20Lowest%20Common%20Ancestor%20II.md)
