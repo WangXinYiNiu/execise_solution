@@ -51,6 +51,9 @@
 3. [laicode649. String Replace (basic)](https://github.com/wangxinyiu/laicode/blob/main/laicode649.%20String%20Replace%20(basic).md)
 4. [laicode65. All Permutations II](https://github.com/wangxinyiu/laicode/blob/main/laicode65.%20All%20Permutations%20II.md)
 
+## Rercursion II
+1. [laicode233. N Queens](https://github.com/wangxinyiu/laicode/blob/main/laicode233.%20N%20Queens.md)
+
 ## Cross-training I
 1. [laicode127. Lowest Common Ancestor II](https://github.com/WangXinYiNiu/execise_solution/blob/main/laicode127.%20Lowest%20Common%20Ancestor%20II.md)
 
