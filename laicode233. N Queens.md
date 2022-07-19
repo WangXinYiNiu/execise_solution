@@ -65,6 +65,7 @@ public class Solution {
 }
 ```
 
-TC: Recursion tree 每一层分n个branches, 总共分n层 -> n^n 但是因为每一层其实建枝了 所以就是 n! (ps: 如果用了StringBuilder 最后 sb.toString()需要n 所以就是 n^n * n)
+TC: Recursion tree 每一层分n个branches, 总共分n层 -> n^n * n 但是因为每一层其实建枝了 所以就是 n! * n -> * n 因为valid 要check最多n次
+(ps: 如果用了StringBuilder 最后 sb.toString()需要n 所以就是 n^n * n)
 SC: recursion 在 stack上是 O(n), heap 上因为是结果要返回的数据，所以没有。
 
