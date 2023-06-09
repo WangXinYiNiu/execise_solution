@@ -30,5 +30,7 @@ public class Solution {
   }
 }
 ```
+Tip: 可以和面试官clarify的东西 -> L = 1 -> 2 -> 3 -> 4 -> null, return2还是3，return 2 的理由是，我有了2 可以找到3 但是return 3 了就不能找到2.
+
 TC: O(n)
 SC: O(n)
