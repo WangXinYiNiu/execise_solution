@@ -7,6 +7,13 @@ L = 1 -> 3 -> 5 -> null, insert 2, return 1 -> 2 -> 3 -> 5 -> null
 L = 1 -> 3 -> 5 -> null, insert 3, return 1 -> 3 -> 3 -> 5 -> null          
 L = 2 -> 3 -> null, insert 1, return 1 -> 2 -> 3 -> null        
 
+```
+分类讨论：
+1. 加到头
+2. 加到中间
+3. 加到尾巴
+其中 2 3 的情况可以合并
+```
 ```java
 public class Solution{
   public ListNode insert(ListNode head, int value){
