@@ -30,6 +30,7 @@ What if the binary tree is null? Return true in this case.
 
 ```java
 public class Solution {
+
   public boolean isBalanced(TreeNode root) {
     // Write your solution here
     if (root == null) {
@@ -41,6 +42,7 @@ public class Solution {
     }
     return isBalanced(root.left) && isBalanced(root.right);
   }
+
   public int findHeight(TreeNode root) {
     if (root == null) {
       return 0;
