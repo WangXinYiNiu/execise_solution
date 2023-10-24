@@ -33,6 +33,9 @@
 ## Queue & Stack
 1. [Queue & Stack summary](https://github.com/wangxinyiiu/execise_solution/blob/main/Queue%20%26%20Stack%20Summary.md)
 
+## Binary Tree & Binary Search Tree
+1. [laicode 46. Check If Binary Tree Is Balanced](https://github.com/wangxinyiu/laicode/blob/main/laicode46.%20Check%20If%20Binary%20Tree%20Is%20Balanced.md)
+
 ## DFS
 1. [All Subset](https://github.com/wangxinyiu/execise_solution/blob/main/All%20Subset.md)
 
