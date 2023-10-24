@@ -35,6 +35,7 @@
 
 ## Binary Tree & Binary Search Tree
 1. [laicode 46. Check If Binary Tree Is Balanced](https://github.com/wangxinyiu/laicode/blob/main/laicode46.%20Check%20If%20Binary%20Tree%20Is%20Balanced.md)
+2. [laicode 48. Symmetric Binary Tree](https://github.com/wangxinyiu/laicode/blob/main/laicode48.%20Symmetric%20Binary%20Tree.md)
 
 ## DFS
 1. [All Subset](https://github.com/wangxinyiu/execise_solution/blob/main/All%20Subset.md)
